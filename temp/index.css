@@ -1,0 +1,26 @@
+.appBox {
+	margin-top: 50px;
+}
+
+.contactBox {
+	display: block;
+	width: 400px;
+	float: right;
+	border: 1px solid black;
+}
+
+.workExperienceEntryTitle {
+	overflow: hidden;
+}
+
+.companyName {
+	font-size: 20px;
+}
+
+.companyLocation {
+	margin-top: 10px;
+}
+
+.workExperienceEntryDate {
+	font-style: italic;
+}
